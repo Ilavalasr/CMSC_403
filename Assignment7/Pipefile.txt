@@ -1,0 +1,6 @@
+First make sure python3 and pip/pip3 is up to date.
+if you have both python3 and python2 installed in your computer use the following command to install rectangle packer.
+
+> pip3 install rectangle-packer
+
+if you have only python3 installed on your computer a regular pip should work
